@@ -2,6 +2,7 @@
  * Problem link: https://leetcode.com/problems/plus-one/
  * Reflection: This took way too long. I initially had a complicated solution, but it was simplified after a day of thinking.
 */
+
 class Solution {
 public:
     vector<int> plusOne(vector<int>& digits) {
